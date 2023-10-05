@@ -21,7 +21,7 @@ var listPlanet = [
   DataPlanet(
       nama: "Merkurius",
       ciri: "Planet terkecil dan dekat dengan Matahari",
-      imageLink:     "https://raw.githubusercontent.com/benoitvallon/100-best-books/master/static/images/things-fall-apart.jpg",
+      imageLink:     "https://asset.kompas.com/crops/vCHGA2IKcGmSENe2vYrdZ5Q0d40=/141x0:1761x1080/1200x800/data/photo/2022/09/02/6311afbb104f3.jpg",
       diameter: 48.79,
       link: "https://id.wikipedia.org/wiki/Merkurius",
       deskripsi: "Merkurius adalah planet terdekat dari matahari. Planet ini mengitari matahari dengan kecepatan 29 miles (47 kilometer) per detiknya. Planet yang dijuluki sebagai Bintang Fajar ini memiliki permukaan kawah dengan suhu di atas 800 derajat Fahrenheit atau setera 42,7 derajat Celsius. Namun suhu yang berada di sisi yang jauh dari Matahari cenderung dingin, sekitar -279 Fahrenheit atau setara -173 Celsius.",
@@ -31,8 +31,8 @@ var listPlanet = [
   DataPlanet(
     nama: "Venus",
     ciri: "Planet dengan suhu yang sangat tinggi",
-    imageLink:     "https://raw.githubusercontent.com/benoitvallon/100-best-books/master/static/images/things-fall-apart.jpg",
-    diameter: 60.52,
+    imageLink:     "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2022/02/17/planet-venusjpg-20220217104056.jpg",
+    diameter: 6.052,
     link: "https://id.wikipedia.org/wiki/Venus",
     deskripsi: "Planet Venus berada di urutan kedua yang dekat dengan matahari, sehingga permukaan kawahnya sangat panas "
         "seperti Merkurius, yakni berkisar 900 derajat Fahrenheit (482 Derajat Celcius)",
@@ -42,7 +42,7 @@ var listPlanet = [
   DataPlanet(
     nama: "Bumi",
     ciri: "Memiliki julukan sebagai planet biru",
-    imageLink:     "https://raw.githubusercontent.com/benoitvallon/100-best-books/master/static/images/things-fall-apart.jpg",
+    imageLink:     "https://oif.umsu.ac.id/wp-content/uploads/2020/12/WhatsApp-Image-2020-12-01-at-09.06.38.jpeg",
     diameter: 12.742,
     link: "https://id.wikipedia.org/wiki/Bumi",
     deskripsi: "Bumi adalah planet terdekat ketiga dari Matahari yang merupakan planet terpadat dan terbesar kelima dari "
@@ -53,8 +53,8 @@ var listPlanet = [
   DataPlanet(
       nama: "Mars",
       ciri: "Memiliki julukan sebagai planet merah",
-      imageLink:     "https://raw.githubusercontent.com/benoitvallon/100-best-books/master/static/images/things-fall-apart.jpg",
-      diameter: 67.79,
+      imageLink:     "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kompas.com%2Ftren%2Fread%2F2022%2F03%2F24%2F070000865%2F8-fakta-unik-planet-uranus-punya-cincin-dan-memiliki-suhu-terdingin%3Fpage%3Dall&psig=AOvVaw2OGa1SmB45c1mO2szBalYV&ust=1696572750910000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDNhZqg3oEDFQAAAAAdAAAAABAD",
+      diameter: 6.779,
       link: "https://id.wikipedia.org/wiki/Mars",
       deskripsi: "Mars merupakan planet keempat yang dekat dari matahari.. Permukaan kawah Mars terlihat seperti dasar sungai yang kering, ada kemungkinan bahwa air sempat ada di planet ini dan mungkin masih mengalir di bawah permukaannya.",
 
